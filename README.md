@@ -1,4 +1,4 @@
-# IMAGE-RECOGNITION-OF-PESTS-BITTEN-PHOTO-USING-CONVOLUTIONAL-NEURAL-NETWORK-OF-DEEP-LEARNING
+# Image Recognition of Pests Bitten Photo Using Convolutional Neural Network of Deep Learning
 
 At first we collected the images of three pests and the wounds bitten by them to build an insect image dataset and a wounds image dataset. 
 Data augmentation is necessary to enhance features of datasets. After data preprocess is done, model training comes in handy. 
